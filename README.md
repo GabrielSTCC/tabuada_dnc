@@ -12,7 +12,6 @@ Este projeto consiste em uma aplicação web simples que permite calcular a tabu
 4. [Instruções de Uso](#instruções-de-uso)
 5. [Personalização](#personalização)
 6. [Autor](#autor)
-7. [Licença](#licença)
 
 ## Visão Geral
 
